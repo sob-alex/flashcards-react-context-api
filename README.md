@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Описание
+
+Когда изучал реакт написал такое приложение по составлению карточек с переводом для изучения английского.  
+React + Context, Bootstrap
+
+## Screnshots
+
+<img src='screen1.PNG' />
+<img src='screen2.PNG' />
+
 ## Available Scripts
 
 In the project directory, you can run:
